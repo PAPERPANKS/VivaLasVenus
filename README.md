@@ -28,7 +28,7 @@ En primer lugar, ¡sean bienvenidas\(os\)! Gracias por acceder al repositorio de
     * [How you can contribute](#how-you-can-contribute)
     * [Suggestions and feedback](#suggestions-and-feedback)
 * [**ESPAÑOL**](#español)
-    * Qué es Viva Las Venus
+    * [Qué es Viva Las Venus](#Qué-es-Viva-Las-Venus)
     * Por que se creó el proyecto Viva Las Venus
     * Quienes somos
     * Cómo se puede contribuir
@@ -36,7 +36,8 @@ En primer lugar, ¡sean bienvenidas\(os\)! Gracias por acceder al repositorio de
 
 
 ### PORTUGUÊS
-## **Sobre o Viva Las Venus**
+
+## O que é Viva Las Venus
 
 Há alguns anos tenho curiosidade sobre privacidade e segurança digital, frequento eventos, converso com pessoas que compartilham dos mesmos interesses e preocupações, pesquiso de forma independente e mais recentemente, tenho feito palestras e workshops. 
 
@@ -72,7 +73,7 @@ Você pode criar uma [**issue**](https://github.com/VivaLasVenus/VivaLasVenus/is
 
 Se preferir, você também pode entrar em contato por email **vivalasvenus@riseup.net**
 
-## ENGLISH
+### ENGLISH
 
 ## What is Viva Las Venus
 I have been curious about privacy and digital security for some years. I attend at events, talking with people who share the same interests and concerns, researching independently and more recently, I have been giving lectures and workshops. 
@@ -107,5 +108,13 @@ You can either create a [**issue**](https://github.com/VivaLasVenus/VivaLasVenus
 
 If you choose, you can also contact us by email **vivalasvenus@riseup.net**
 
-## ESPAÑOL
+### ESPAÑOL
 
+## Qué es Viva Las Venus
+Tengo curiosidad por la privacidad y la seguridad digital desde hace algunos años. Asisto a eventos, hablo con personas que comparten los mismos intereses y preocupaciones, investigo de forma independiente y, más recientemente, he impartido conferencias y talleres.
+
+Crear un proyecto para enseñar seguridad y privacidad (principalmente, pero no exclusivamente) a las mujeres es un viejo deseo. No sabía por dónde empezar, cómo hacerlo, a quién llamar para colaborar ... de todos modos, muchas dudas. Hasta que tomó forma y nació Viva Las Venus, uno de los proyectos aceptados en el programa **[Mozilla Open Leaders Round 5](https://mozilla.github.io/leadership-training/round-5/projects/)**
+
+Viva Las Venus es un proyecto abierto, en otras palabras, significa compartir el conocimiento y la información generados por el proyecto de una manera amplia y gratuita, permitiendo a todos construir y maximizar su utilidad. Trabajar abiertamente es tener el poder, el conocimiento y las habilidades de una comunidad diversa de contribuyentes globales, para ir más allá y mejorar, algo que por sí solo no se puede hacer. El conocimiento, los recursos y las herramientas que generamos son más útiles y potentes porque se comparten ampliamente.
+
+Viva Las Venus es una iniciativa a largo plazo que pretende ser una sembradora para otros proyectos, para una Internet más abierta, saludable, segura y diversificada. Viva Las Venus fue creada para enseñar, concientizar y aprender sobre alternativas viables a los problemas de privacidad y seguridad que afligen nuestras vidas digitales, a través de talleres, debates y charlas, tanto a nivel personal como en línea.
